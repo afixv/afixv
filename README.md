@@ -3,10 +3,10 @@
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me :
-      instagram : @afi.xv
-      twitter : @afixve
-      facebook : Afix Vega Praditya
-      youtube : Afix Vega
+      - instagram : @afi.xv
+      - twitter : @afixve
+      - facebook : Afix Vega Praditya
+      - youtube : Afix Vega
       
 
 <!---
