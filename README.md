@@ -2,11 +2,11 @@
 - 👀 I’m interested in Web Developnment
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me :
-      - instagram : @afi.xv
-      - twitter : @afixve
-      - facebook : Afix Vega Praditya
-      - youtube : Afix Vega
+- 📫 How to reach me : <br/>
+      Instagram : @afi.xv <br/>
+      Twitter : @afixve <br/>
+      Facebook : Afix Vega Praditya <br/>
+      YouTube : Afix Vega <br/>
       
 
 <!---
