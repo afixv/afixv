@@ -7,6 +7,7 @@
       Twitter : @afixve <br/>
       Facebook : Afix Vega Praditya <br/>
       YouTube : Afix Vega <br/>
+      LinkedIn : linkedin.com/in/afix-vega/ 
       
 
 <!---
