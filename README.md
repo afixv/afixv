@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @afixv
-- 👀 I’m interested in Web Developnment
+- 👀 I’m interested in Web Developnment and UI/UX
 - 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on mmm.. i'm looking for a team to take a part in some competition (e.g hackathon)
 - 📫 How to reach me : <br/>
       Instagram : @afi.xv <br/>
       Twitter : @afixve <br/>
