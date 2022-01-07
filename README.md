@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @afixv
+- 👋 Hi, I’m Afix Vega Praditya, Student of Information Engineering at Gadjah Mada University
 - 👀 I’m interested in Web Developnment and UI/UX
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking for a team to take a part in some competition (e.g hackathon)
