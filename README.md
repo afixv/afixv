@@ -3,7 +3,7 @@
     
 <h4>I'm interested in Web Development, especially as Front-End Developer also interested in UX Design. By the way, ... I’m looking for a team to take a part in some competition (e.g hackathon). <br /> <br /> <br />
 
-      How to reach me :
+      How to Reach Me :
       Instagram : @afi.xv
       Twitter : @afixve
       Facebook : Afix Vega Praditya
@@ -11,7 +11,8 @@
       LinkedIn : linkedin.com/in/afix-vega/ 
       
 <br /> 
- 
+    <h2 align="right">Github Stats</h2>
+
 <img align="right" width="395px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afixv&theme=material-palenight&layout=compact" />
 <img align="right" width="395px" src="https://github-readme-stats.vercel.app/api?username=afixv&show_icons=true&theme=material-palenight" />
 
