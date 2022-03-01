@@ -12,8 +12,8 @@
       
 <br /> 
  
-<img align="center" width="496px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afixv&theme=material-palenight&layout=compact" />
-<img align="center" height="200px" src="https://github-readme-stats.vercel.app/api?username=afixv&show_icons=true&theme=material-palenight" />
+<img align="right" width="396px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afixv&theme=material-palenight&layout=compact" />
+<img align="right" width="396px" src="https://github-readme-stats.vercel.app/api?username=afixv&show_icons=true&theme=material-palenight" />
 
 <!---
 afixv/afixv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
