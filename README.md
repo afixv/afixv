@@ -1,5 +1,5 @@
-<h1>👋 Hi, I’m Afix Vega Praditya 
-<h3>Student of Information Engineering at Gadjah Mada University
+<h3 align="center">👋 Hi, I’m Afix Vega Praditya </h3>
+<h2 align="center">Student of Information Engineering at Gadjah Mada University </h2>
     
 <h4>I'm interested in Web Development, especially as Front-End Developer also interested in UX Design. By the way, ... I’m looking for a team to take a part in some competition (e.g hackathon). <br /> <br /> <br />
 How to Reach Me : <br /><br />
