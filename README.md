@@ -1,7 +1,7 @@
 ![Heading](https://github.com/user-attachments/assets/8719c5fc-e579-43c6-b208-42b2dfbc7c8a)
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Afix Vega Praditya</h1>
-<p align="center" ><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=21&duration=3000&pause=500&color=7D63F7&center=true&vCenter=true&random=false&width=435&lines=Website+Developer;Information+Engineering+Student;UI+Designer" alt="Typing SVG" /></a></p>
+<p align="center" ><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=21&duration=3000&pause=500&color=BA7EF2&center=true&vCenter=true&random=false&width=435&lines=Website+Developer;Information+Engineering+Student;UI+Designer" alt="Typing SVG" /></a></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=afixv&label=Profile%20views&color=0e75b6&style=flat" alt="afixv" /> </p>
 
